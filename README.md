@@ -1,4 +1,4 @@
-# SimpleIpScanner
+# SimpleIPScanner
  - Simple ip scanner for the computer to know the computer status is on or off
 # Tech Stack
  - Java
